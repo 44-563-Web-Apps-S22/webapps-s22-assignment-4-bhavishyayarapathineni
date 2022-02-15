@@ -46,6 +46,12 @@ th{
 tr:nth-child(even) {
   background-color: greenyellow;
 }  
+.name:hover{
+    text-shadow: 4px 4px 4px green;
+    color: blueviolet;
+    filter: hue-rotate(4px);
+    border: double 4px blue;
+}   
 
 
 
