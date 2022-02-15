@@ -1,0 +1,51 @@
+.speech{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:large;
+    color:black;
+}
+.direction{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    color:black;
+    background-color: lightsalmon;
+}
+.name{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:large;
+    color:black;
+}    
+.direction:hover{
+    color:aliceblue;
+    background-color: blueviolet;
+}
+.JAC{
+    color:red;
+}
+.HAR{
+    color:green;
+}
+.OFF{
+    color:violet;
+}
+.table,
+td{
+  border: 0in beige;
+  border-collapse: separate;  
+  text-align: right;
+  color: azure;
+  padding: 0in;
+  margin: 0pt;
+}
+th{
+  border: 0pt blueviolet;
+  text-align: center;
+  background-color: yellowgreen;
+  padding: 8px;
+  margin: 16px;
+}
+tr:nth-child(even) {
+  background-color: greenyellow;
+}  
+
+
+
